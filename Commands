@@ -4,6 +4,7 @@
 04. ionic platform add <PLATFORM-NAME>                            - to add a platfrom to your app such as android / ios
 05. ionic upload                                                  - to upload your app on ionic account
 06. ionic run android -lc                                         - run your app in mobile device or emulator (live console)
+    ionic run android                                             - deploy the app in your mobile only
 07. ionic deploy                                                  - allows you to deploy(update) app on all users devices
                                                                     whenever they connect to internet
 08. ionic plugin add <PLUGIN-NAME>                                - to add the specified plugin
